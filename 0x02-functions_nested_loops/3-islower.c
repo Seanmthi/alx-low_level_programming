@@ -2,6 +2,8 @@
 /**
  * _islower - shows 1 if character c is lower case and 0 otherwise
  *
+ * @c: The characterin ASCll code
+ *
  * Return: 1 if lower case  or 0 otherwise
  */
 int _islower(int c)
