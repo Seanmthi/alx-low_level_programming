@@ -4,7 +4,7 @@
  *
  * Return: Always 0
  */
-int main (void)
+int main(void)
 {
 	int i, j;
 
@@ -15,6 +15,6 @@ int main (void)
 			j += i;
 		}
 	}
-	printf("%d\n" ,j);
+	printf("%d\n", j);
 	return (0);
 }
